@@ -11,9 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          tar
-          re
+          hre
         >
           Learn React
         </a>
